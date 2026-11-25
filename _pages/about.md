@@ -11,4 +11,4 @@ I am a PhD student at Aalto University in Finland, researching AI for Software E
 
 My research focuses on software testing.
 
-See my [work experience](/experience/), [publications](/publications/) or [CV](/cv/).
+See my [work experience]({{ '/experience/' | relative_url }}), [publications]({{ '/publications/' | relative_url }}) or [CV]({{ '/cv/' | relative_url }}).
